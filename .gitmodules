@@ -1,0 +1,3 @@
+[submodule "good-random"]
+	path = good-random
+	url = https://github.com/oxheron/good-random
